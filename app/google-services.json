@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106463260728",
+    "firebase_url": "https://ezlawtest-62157.firebaseio.com",
+    "project_id": "ezlawtest-62157",
+    "storage_bucket": "ezlawtest-62157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106463260728:android:721721d4a219e9ef",
+        "android_client_info": {
+          "package_name": "com.ezlaw.ezlaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106463260728-69fkcgcssplhn4mep4c2rr79hc7krb0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezlaw.ezlaw",
+            "certificate_hash": "90379d4ac4ac6670b726d99f154434472a958db0"
+          }
+        },
+        {
+          "client_id": "106463260728-0ql64u3jmkbfh6gmnt3sutj8f78nt2io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeL3cphaqhn86hIQh5IE5T1Ddfpen9zno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106463260728-0ql64u3jmkbfh6gmnt3sutj8f78nt2io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

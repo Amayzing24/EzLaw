@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EzLaw</string>
+
+    <string-array name="qOptions">
+        <item>Immigrant Rights</item>
+        <item>Border Zone Rights</item>
+        <item>Protest Rights</item>
+        <item>Voting Rights</item>
+        <item>Rights in Court</item>
+        <item>Religious Rights</item>
+        <item>Housing Rights</item>
+        <item>Transgender Rights</item>
+        <item>Sexual Assault Rights</item>
+        <item>General Civil Rights</item>
+        <item>Police Rights</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Immigrant rights</item>
+        <item>Protest rights</item>
+        <item>Voting rights</item>
+        <item>Court rights</item>
+        <item>Religious rights</item>
+        <item>Transgender rights</item>
+        <item>Border Zone rights</item>
+        <item>Sexual Assault rights</item>
+        <item>General Civil rights</item>
+        <item>Rights when stopped by police</item>
+        <item>Housing rights</item>
+
+    </string-array>
+</resources>

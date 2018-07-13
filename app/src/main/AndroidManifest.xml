@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ezlaw.ezlaw">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true"
+    />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondOne" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".LawyerInfo" />
+        <activity android:name=".ClientMain" />
+        <activity
+            android:name=".LawyerMain"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity android:name=".LawyerVerification" />
+        <activity android:name=".NewQuestion" />
+        <activity android:name=".QuestionInfo" />
+        <activity android:name=".NewComment" />
+        <activity android:name=".Rights" />
+        <activity android:name=".BorderZone02" />
+        <activity android:name=".Court" />
+        <activity android:name=".General" />
+        <activity android:name=".Housing" />
+        <activity android:name=".Immigration" />
+        <activity android:name=".Immigration02" />
+        <activity android:name=".PoliceRights" />
+        <activity android:name=".Protest" />
+        <activity android:name=".Religious" />
+        <activity android:name=".SexualAssault" />
+        <activity android:name=".Transgender" />
+        <activity android:name=".Voting" />
+        <activity android:name=".BorderZone">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/andika</item>
+        <item>@font/antic</item>
+        <item>@font/archivo_black</item>
+        <item>@font/coustard</item>
+        <item>@font/emblema_one</item>
+        <item>@font/marmelad</item>
+    </array>
+</resources>
